@@ -6,6 +6,7 @@
 
 
 # Links
+@Wechsels 将我的资料与其他更丰富的资料整合了新的仓库地址， 可以在[这里](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University)查看。
 
 目前，@arthurfish 正在维护一个面向 2023 级软件工程专业的课程资料仓库，可以在[这里](https://github.com/arthurfish/SUDA-SE-lessons)查看。  
 
